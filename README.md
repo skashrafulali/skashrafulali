@@ -10,17 +10,7 @@ while(alive) {
 
 🎓 Computer Science Student @ AIUB
 
-I'm interested in understanding how systems work beneath the surface — from Linux and networking to cybersecurity and software development.
-
 Most of my GitHub is a collection of things I'm learning, breaking, fixing, documenting, and occasionally overthinking.
-
-## 🚀 Current Mission
-
-* Master Linux fundamentals
-* Build a strong networking foundation
-* Explore cybersecurity hands-on
-* Develop better problem-solving skills
-* Create a habit of learning every day
 
 ## 📂 What You'll Find Here
 
@@ -42,15 +32,6 @@ Networking   ██████░░░░
 Cybersecurity ████░░░░░░
 Git/GitHub   ███████░░░
 ```
-
-## 📈 Philosophy
-
-> Learn deeply.
->
-> Build consistently.
->
-> Document everything.
-
 ---
 
 ### Connect
