@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hey, I'm Ashraful
 
-<!--
-**skashrafulali/skashrafulali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+while(alive) {
+    learn();
+    build();
+    improve();
+}
+```
 
-Here are some ideas to get you started:
+🎓 Computer Science Student @ AIUB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in understanding how systems work beneath the surface — from Linux and networking to cybersecurity and software development.
+
+Most of my GitHub is a collection of things I'm learning, breaking, fixing, documenting, and occasionally overthinking.
+
+## 🚀 Current Mission
+
+* Master Linux fundamentals
+* Build a strong networking foundation
+* Explore cybersecurity hands-on
+* Develop better problem-solving skills
+* Create a habit of learning every day
+
+## 📂 What You'll Find Here
+
+🐧 Linux notes and command references
+
+🔐 Cybersecurity learning resources
+
+🚩 OverTheWire & CTF write-ups
+
+💻 Programming experiments and university projects
+
+📖 Documentation of things I wish someone explained earlier
+
+## 🌱 Currently Learning
+
+```bash
+Linux        ████████░░
+Networking   ██████░░░░
+Cybersecurity ████░░░░░░
+Git/GitHub   ███████░░░
+```
+
+## 📈 Philosophy
+
+> Learn deeply.
+>
+> Build consistently.
+>
+> Document everything.
+
+---
+
+### Connect
+
+Always open to learning from people who know more than me.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skashrafulali" />
+</p>
