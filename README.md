@@ -24,15 +24,16 @@ Most of my GitHub is a collection of things I'm learning, breaking, fixing, docu
 
 📖 Documentation of things I wish someone explained earlier
 
+
 ## 🌱 Currently Learning
 
-```bash
-Linux        ████████░░
-Networking   ██████░░░░
-Cybersecurity ████░░░░░░
-Git/GitHub   ███████░░░
-```
----
+| Topic | Progress | Level |
+| :--- | :--- | :--- |
+| **Linux** | `████████░░` | ![80%](https://img.shields.io/badge/80%25-2ecc71?style=flat-square) |
+| **Networking** | `██████░░░░` | ![60%](https://img.shields.io/badge/60%25-3498db?style=flat-square) |
+| **Cybersecurity** | `████░░░░░░` | ![40%](https://img.shields.io/badge/40%25-e67e22?style=flat-square) |
+| **Git / GitHub** | `███████░░░` | ![70%](https://img.shields.io/badge/70%25-9b59b6?style=flat-square) |
+
 
 ### Connect
 
