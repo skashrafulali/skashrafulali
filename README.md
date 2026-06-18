@@ -38,5 +38,7 @@ Git/GitHub   ███████░░░
 
 Always open to learning from people who know more than me.
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skashrafulali" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skashrafulali&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
